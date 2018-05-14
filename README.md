@@ -3,7 +3,7 @@ Repo test
 
 Luis Soto.
 
-***Context
+# Context
 ---------------------------------------------------------
 
 A company rents bikes under following options:
@@ -34,15 +34,15 @@ A company rents bikes under following options:
 Note: we don't expect any kind of application, just a set of classes with its automated tests.
 ---------------------------------------------------------
 
-***Design:
+# Design:
 
 Visual studio .net 2017 class library framework 4.6.1
 
-***Test Framework
+# Test Framework
 
 NUnit 3
 
-***Problems
+# Problems
 
 1) Several platform issues before using visual studio 2012, by this reason finally was built using vs 2017
 2) Since vs 2012 or later NUnit tests needs specify a solution xmlfile called "CodeCoverage.runsettings", however this file cannot gather results in orderto run "code coverage analysis" tool, because we need use visual studio enterprise version in order to use code coverage tool, see this document confirm: https://msdn.microsoft.com/es-cl/library/jj159523.aspx
@@ -51,7 +51,7 @@ Without codecoverage analysis is difficult to me know exactly if test coverage i
 
 You can see codecoverage window using this menu: test -> windows -> code coverage results
 
-***How to run the test
+# How to run the test
 
 1) Download (clone) this repo, and visualstudio solution file is inside ClassLibDemoTest folder, open the solution in visual studio 2017, add nuget packagesrelated with NUnit (NUnit 3, NUnit Adapter), please change the follwing line in the file called "CodeCoverage.runsettings":
 
