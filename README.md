@@ -1,6 +1,8 @@
 # Ejercicio1
 Repo test
 
+Luis Soto.
+
 ***Design:
 
 Visual studio .net 2017 class library framework 4.6.1
