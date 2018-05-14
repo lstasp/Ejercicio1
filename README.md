@@ -55,13 +55,11 @@ You can see codecoverage window using this menu: test -> windows -> code coverag
 
 1) Download (clone) this repo, and visualstudio solution file is inside ClassLibDemoTest folder, open the solution in visual studio 2017, add nuget packagesrelated with NUnit (NUnit 3, NUnit Adapter), please change the follwing line in the file called "CodeCoverage.runsettings":
 
-'''xml
-  <SymbolSearchPaths>                
-      <Path>C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\bin\Debug</Path> 
-      <Path>C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug</Path>   
+'<SymbolSearchPaths>'              
+      '<Path>'C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\bin\Debug'</Path>'
+      '<Path>'C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug'</Path>'  
       <!--More paths if required-->
-</SymbolSearchPaths> 
-'''
+'</SymbolSearchPaths>'
 
 Write your own paths in the lines above, the path is almost always bin\debug path in your porject folder under vs solution, follow the steps in this document if you have more questions about this:
 
