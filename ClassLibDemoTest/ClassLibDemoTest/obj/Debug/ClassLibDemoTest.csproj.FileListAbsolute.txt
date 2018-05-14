@@ -1,0 +1,6 @@
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\bin\Debug\ClassLibDemoTest.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\bin\Debug\ClassLibDemoTest.pdb
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\obj\Debug\ClassLibDemoTest.csprojAssemblyReference.cache
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\obj\Debug\ClassLibDemoTest.csproj.CoreCompileInputs.cache
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\obj\Debug\ClassLibDemoTest.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTest\obj\Debug\ClassLibDemoTest.pdb

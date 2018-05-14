@@ -1,0 +1,12 @@
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\ClassLibDemoTestTests.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\ClassLibDemoTestTests.pdb
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\ClassLibDemoTest.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\nunit.framework.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\ClassLibDemoTest.pdb
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\nunit.framework.pdb
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\bin\Debug\nunit.framework.xml
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\obj\Debug\ClassLibDemoTestTests.csprojAssemblyReference.cache
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\obj\Debug\ClassLibDemoTestTests.csproj.CoreCompileInputs.cache
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\obj\Debug\ClassLibDemoTestTests.csproj.CopyComplete
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\obj\Debug\ClassLibDemoTestTests.dll
+C:\VSTest\ClassLibDemoTest\ClassLibDemoTestTests\obj\Debug\ClassLibDemoTestTests.pdb
