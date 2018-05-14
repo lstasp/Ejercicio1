@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibDemoTest", "ClassLibDemoTest\ClassLibDemoTest.csproj", "{F8A9853A-613B-4F72-A6A8-F93BB133FB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibDemoTestTests", "ClassLibDemoTestTests\ClassLibDemoTestTests.csproj", "{7EB9A960-D061-40B1-8964-4955BC8BE8A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4418FEBB-A715-453D-B5DE-DD2B378DE496}"
+	ProjectSection(SolutionItems) = preProject
+		CodeCoverage.runsettings = CodeCoverage.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A9853A-613B-4F72-A6A8-F93BB133FB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A9853A-613B-4F72-A6A8-F93BB133FB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A9853A-613B-4F72-A6A8-F93BB133FB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A9853A-613B-4F72-A6A8-F93BB133FB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB9A960-D061-40B1-8964-4955BC8BE8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB9A960-D061-40B1-8964-4955BC8BE8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB9A960-D061-40B1-8964-4955BC8BE8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB9A960-D061-40B1-8964-4955BC8BE8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA2C275-3667-4809-8846-5DE47B0034CB}
+	EndGlobalSection
+EndGlobal
